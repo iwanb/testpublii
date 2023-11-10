@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://iwanb.github.io/testpublii",
+    "feed_url": "https://iwanb.github.io/testpublii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://iwanb.github.io/testpublii/bonjour-moonde.html",
+            "url": "https://iwanb.github.io/testpublii/bonjour-moonde.html",
+            "title": "Bonjour moonde",
+            "summary": "Bonjour",
+            "content_html": "<p>Bonjour</p>",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-10T18:11:14+01:00",
+            "date_modified": "2023-11-10T18:11:14+01:00"
+        }
+    ]
+}
